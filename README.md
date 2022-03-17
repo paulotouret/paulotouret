@@ -8,7 +8,7 @@
   
   <div style="display: inline_block">
     
-<h3> Languagues and Tools </h3>
+<h3> Languages and Tools </h3>
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg"> 
   <img align="center" alt="JavaScript"  height="30" width="30" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg"> 
   <img align="center" alt="Csharp" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
